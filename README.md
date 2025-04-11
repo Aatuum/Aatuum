@@ -1,11 +1,13 @@
 About Me
 
-👋 Hi there!
-I’m a 23 years old Third-year Business Information Technology Student specializing in Fullstack Development. I'm passionate about coding and building cool new things.
+## 👋 Hi there!
+🚀 I’m a 23 years old Third-year Business Information Technology Student specializing in Fullstack Development. I'm passionate about coding and building cool new things.
+
+💻 I’m always looking for opportunities to discover and experiment with new tools, frameworks, and technologies to keep myself up to date in Fullstack development. I strongly believe that continuous learning is crucial for growth as a developer, and I enjoy the process of tackling new challenges and expanding my skillset.
 
 ## Fun Facts About Me
 - ⚽ Big fan of Football, F1, Ice Hockey and Esport.
-- 🕹️ Love playing PC games. My favorite games: CS2, Teamfigth Tactics, PUBG BATTLEGROUNDS.
+- 🕹️ Love playing PC games. My favorite games: CS2, Teamfight Tactics, PUBG BATTLEGROUNDS.
 
 ## 🛠️ Tech Stack
 
