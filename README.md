@@ -1,7 +1,7 @@
 About Me
 
 ## 👋 Hi there!
-I’m a 24 years old Third-year Business Information Technology Student specializing in Fullstack Development. I'm passionate about coding and building cool new things.
+I’m a 24-year-old Business Information Technology graduate specializing in Full Stack Development. I’m passionate about coding and building innovative web applications.
 
 I’m always looking for opportunities to discover and experiment with new tools, frameworks, and technologies to keep myself up to date in Fullstack development. I strongly believe that continuous learning is crucial for growth as a developer, and I enjoy the process of tackling new challenges and expanding my skillset.
 
